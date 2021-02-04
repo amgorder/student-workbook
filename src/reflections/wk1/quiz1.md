@@ -2,13 +2,13 @@
 
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
-```
+```The 'cd' command stands for "change directory".
 
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
-```
+```The 'mkdir' command stands for "make directory".
 
 ```
 
