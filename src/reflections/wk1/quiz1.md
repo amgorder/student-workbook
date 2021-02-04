@@ -21,13 +21,13 @@
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Hyper Link Mark-Up Language
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+cascading style sheet
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
