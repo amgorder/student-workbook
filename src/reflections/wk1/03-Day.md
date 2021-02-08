@@ -16,6 +16,8 @@ figma.com
 How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
 
 Good design and layout can have a profound effect on the user. A bad design can lead to a difficult user experience; this in turn can cause the user to NOT use your website ever again. However, a good design can lead to repeat use, even attracting more users. 
-A well-designed layout and theme can convey a product owners desired goals. For example, if the website was for some sort of calming product, using calming colors and softer edges or borders can reinforce this message and reach the desired target audience.
+A well-designed layout and theme can convey a product owner desired goals. For example, if the website was for some sort of calming product, using calming colors and softer edges or borders can reinforce this message and reach the desired target audience.
   
 
+https://amgorder.github.io/smile_challenge/
+https://amgorder.github.io/clone_site/
