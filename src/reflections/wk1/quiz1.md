@@ -2,19 +2,22 @@
 
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
-```The 'cd' command stands for "change directory".
+```
+The 'cd' command stands for "change directory".
 
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
-```The 'mkdir' command stands for "make directory".
+```
+The 'mkdir' command stands for "make directory".
 
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
-```HTML element
+```
+HTML element
 
 ```
 
@@ -31,13 +34,15 @@ cascading style sheet
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
-```css
+```
+css
  h1.main-title {
    color : rgba(255, 210, 33, .75);
  }
 ```
 <!-- enter you answer in the space below -->
-```selector: h1.main-title {}
+```
+selector: h1.main-title {}
    property: color :
    value: rgba(255, 210, 33, .75)
 
