@@ -3,17 +3,23 @@
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
 ```
-
+var
+let
+const
 ```
 **2.** What is the definition of a function?
 <!-- enter you answer in the space below -->
 ```
-
+A js functions is a block of code that preforms a specific task. control flow statement
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
+Single responsibility principle
+Open closed principle
+Liskov substitution principle
+Interface segregation principle
+Dependency Inversion principle
 ```
 **4.** Given this array: 
 ```js
@@ -22,7 +28,7 @@ let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+The array is based on a zero index model; making the pineapple in the [2] position. 
 ```
 **5.** With these two objects: 
 ```js
