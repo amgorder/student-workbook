@@ -8,3 +8,7 @@ Debbugging and cosole.loging around the area of code that is not working correct
 
 From the entire article what are your biggest takeaways?
 
+
+
+https://amgorder.github.io/SlapGame/
+
