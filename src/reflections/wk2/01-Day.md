@@ -9,3 +9,5 @@ Hoisting is when a variable is being declared after it has been used. This is on
 In what cases might you use let vs const vs var?
 
 CONST is used when a variable should not be changed. LET is used as a variable that its value can be changed. VAR is used in the case where you would want to utilize the hoisting feature.   
+
+https://amgorder.github.io/js-test-basics/
