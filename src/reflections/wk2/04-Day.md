@@ -8,6 +8,7 @@ Debbugging and cosole.loging around the area of code that is not working correct
 
 From the entire article what are your biggest takeaways?
 
+Make a plan before starting a project; know what direction you are going and possible hurtles. Write code using best practices so that the code can be used by others. Don't Give Up! Research problems and other methods/solutions.
 
 
 https://amgorder.github.io/SlapGame/
