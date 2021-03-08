@@ -11,3 +11,5 @@ A query Parameter is in a "Key = Value" pair. If there are mulitple queries then
 When do you think Query parameters would be helpful when writing your server?
 
 I think that using a Query Parameter to search for information from a list of mutiple possiblities to find a specific target would be very useful. Finding a specific user and their info perhaps or keeping logic working smoothly by draw key elements from a server instead of hard coding information would be usefull too. 
+
+ https://amgorder.github.io/burgers_node/

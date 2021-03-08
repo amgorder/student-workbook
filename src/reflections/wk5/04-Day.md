@@ -12,3 +12,6 @@ How do you search by a virtual properties value?
 
 You can not. Only non-virtual properties can be used in queries. 
 
+
+
+Hack a thon team meet up
