@@ -13,3 +13,6 @@ To pass data from the parent to child component.
 Where can props be used or accessed?
 
 Accessed in the compontent defintion. Used within the template by name.
+
+
+ https://amgorder.github.io/nasa_apod_vue-er/
